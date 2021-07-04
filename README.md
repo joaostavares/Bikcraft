@@ -4,7 +4,7 @@
 
 ## Site Completo ##
 
-[GitHub Pages](https://joaostavares.github.io/Curso-Web-Design-Completo/)
+[GitHub Pages](https://joaostavares.github.io/Bikcraft/)
 
 ## Imagens do site ##
 
