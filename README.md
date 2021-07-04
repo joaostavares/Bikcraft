@@ -6,6 +6,6 @@
 
 [GitHub Pages](https://joaostavares.github.io/Curso-Web-Design-Completo/)
 
-﻿##Imagens do site
+Imagens do site
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65142565/124371689-a9457180-dc5a-11eb-9e08-e4df5284a52c.gif)
