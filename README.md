@@ -1,11 +1,11 @@
 ﻿# Bikcraft
  
-Site desenvolvido enquanto realizava o curso de Web Design Completo da Plataforma de Ensino Origamid, A fim de aprender o basico sobre HTML e CSS, além de algumas pequenas implementações em JavaScript
+Website developed in order to learn and improve the use of HTML and CSS
 
-## Site Completo ##
+## Website ##
 
 [GitHub Pages](https://joaostavares.github.io/Bikcraft/)
 
-## Imagens do site ##
+## Images ##
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65142565/124371689-a9457180-dc5a-11eb-9e08-e4df5284a52c.gif)
